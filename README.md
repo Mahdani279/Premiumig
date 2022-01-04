@@ -7,4 +7,4 @@
     $ pip2 install requests futures bs4 mechanize
     $ git clone https://github.com/kenDevXD/Premiumig
     $ cd Premiumig
-    $ python Zpedia.py
+    $ python2 Zpedia.py
