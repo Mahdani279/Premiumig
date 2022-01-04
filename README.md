@@ -1,11 +1,10 @@
-# Premiumig
 
- $ pkg update && upgrade
+
+# Perintah
+    $ pkg update && upgrade
     $ pkg install git
-    $ pkg install python
-    $ pip install requests
-    $ pip install futures
+    $ pkg install python2
+    $ pip2 install requests futures bs4 mechanize
     $ git clone https://github.com/kenDevXD/Premiumig
-    $ cd Premium
-    $ git pull
+    $ cd Premiumig
     $ python Zpedia.py
